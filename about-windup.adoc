@@ -1,0 +1,23 @@
+
+
+
+:imagesdir: images
+
+[[What-is-it]]
+=== What is Windup?
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+image:windup-logo-large.png[Windup Logo] 
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+==== Overview
+
+Windup is an extensible and customizable rule-based tool that helps simplify migration of Java applications. 
+
+[NOTE]
+====
+This demonstrates https://gitlab.com/gitlab-org/gitlab-ce/issues/3460[GitLab Issue #3460]
+====
+
